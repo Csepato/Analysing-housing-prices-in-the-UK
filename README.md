@@ -1,4 +1,4 @@
-# Analysing the effects of covid-19 on housing prices in the UK.
+# Analysing housing prices in the UK.
 
 ## Project Introduction 
 
